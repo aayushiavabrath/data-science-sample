@@ -1,5 +1,4 @@
 # data-science-sample
-Course project: Python program simulating a salad order system using object-oriented design and a MinHeap structure
 
 File Descriptions
 - Salad.py: Defines the base 'Salad' class with size and price attributes.
